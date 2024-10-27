@@ -12,7 +12,7 @@ This repository contains a machine learning pipeline for training and optimizing
 ├── libraries.py         # Core ML pipeline components
 ├── main.ipynb          # Main execution notebook
 ├── README.md           # This file
-├── plot               # Grafik saqlanadigan papka
+├── plot               # ROC-AUC grafic
 ├── train.csv           # Training data (required)
 └── test.csv            # Test data (required)
 ```
